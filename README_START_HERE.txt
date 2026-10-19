@@ -1,0 +1,1 @@
+Open index.html in your browser. The Storytime section embeds the full reading from https://youtu.be/sAvu3AnvR2c and uses the existing YouTube captions. Internet connection required for this embedded reading. Other local videos remain included. This is a private website preview, not a live deployment.
