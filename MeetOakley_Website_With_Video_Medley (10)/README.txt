@@ -1,0 +1,1 @@
+Open index.html in a browser. Both videos play locally from the assets folder. Instagram links to Oakley’s profile. The YouTube link currently opens Oakley’s animation video; replace it with your channel URL once provided. This is a preview, not a live website.

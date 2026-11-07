@@ -1,0 +1,1 @@
+October 2026: Added National Audiology Awareness Month, 7th birthday, and 2020–2026 Halloween gallery with UPS and hippie videos. Preview by opening index.html. This is not the live site. The birthday photo is an existing celebration memory, not a photo from the upcoming 7th birthday. The October content remains visible year-round until you choose to hide it.
